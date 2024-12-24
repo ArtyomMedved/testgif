@@ -17,3 +17,6 @@ Done! You will start a beautiful animation.
 4. Когда на экране появится "пароль sudo для "вашего пользователя" ", введите пароль и нажмите Enter .
 
 Готово ! Вы запустите красивую анимацию .
+
+
+![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
