@@ -19,4 +19,4 @@ Done! You will start a beautiful animation.
 Готово ! Вы запустите красивую анимацию .
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
+![alt text](https://i.yapx.cc/YSwoR.png)
