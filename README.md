@@ -19,4 +19,4 @@ Done! You will start a beautiful animation.
 Готово ! Вы запустите красивую анимацию .
 
 
-![alt text](https://i.yapx.cc/YSwoR.png)
+![alt text](https://i.yapx.ru/YSwoR.png)
